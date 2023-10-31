@@ -1,4 +1,4 @@
-## Movie indo service
+## Movie info service
 
 ### Maven build
 
