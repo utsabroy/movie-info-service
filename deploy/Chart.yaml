@@ -1,0 +1,12 @@
+################################################################################
+# HELM CHART FOR `movie-catalog-service`
+################################################################################
+
+apiVersion: v2
+name: movie-info-service
+version: "1.0.0"
+description: Sample move info microservice
+dependencies:
+  - name: k8-application
+    repository: "https://utsabroy.github.io/kcharts/"
+    version: ">= 1.0.0"
