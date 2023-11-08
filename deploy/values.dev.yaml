@@ -32,5 +32,3 @@ k8-application:
     ports:
       - port: 80
         targetPort: 8080
-  awsIngress:
-    enabled: false
